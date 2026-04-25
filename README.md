@@ -1,7 +1,7 @@
 # proyecto-final-nestjs
-Proyecto final para el curso Backend con NestJS
 
-Integrantes:
+> Proyecto final para el curso **Backend con NestJS**
 
-  Cristian Santiago Rios Vasquez
-  Carlos Andres Pescador Castro
+## Integrantes:
+* Cristian Santiago Rios Vasquez
+* Carlos Andres Pescador Castro
